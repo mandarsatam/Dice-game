@@ -1,0 +1,46 @@
+body {
+    background-color: #3b6978;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 75px;
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+
+footer {
+    background-color: #204051;
+    color: #84a9ac;
+    text-align: center;
+    margin-bottom: 0;
+    height: 100px;
+    padding-top: 25px;
+}
+
+.player1 {
+    text-align: center;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.player2 {
+    text-align: center;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.vs {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.row {
+    padding-bottom: 50px;
+}
